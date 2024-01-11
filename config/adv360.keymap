@@ -40,11 +40,11 @@
 
         default_layer {
             bindings = <
- &kp LANGUAGE_5     &kp N1       &kp N2    &kp N3     &kp N4  &kp N5               &tog 1                                                                              &mo 3  &kp N6  &kp N7     &kp N8            &kp N9             &kp N0       &kp MINUS
-        &kp TAB      &kp Q        &kp W     &kp E      &kp R   &kp T            &kp PG_UP                                                                           &kp HOME   &kp Y   &kp U      &kp I             &kp O              &kp P     &kp AT_SIGN
-      &kp LCTRL      &kp A        &kp S     &kp D      &kp F   &kp G            &kp PG_DN  &kp LGUI   &kp LALT                             &kp INT2  &kp LGUI        &kp END   &kp H   &kp J      &kp K             &kp L           &kp SEMI       &kp COLON
-      &kp LSHFT      &kp Z        &kp X     &kp C      &kp V   &kp B                                 &kp LCTRL                  &kp INTERNATIONAL_4                            &kp N   &kp M  &kp COMMA        &kp PERIOD          &kp SLASH  &kp UNDERSCORE
-          &mo 2  &kp CARET  &kp INT_YEN  &kp LEFT  &kp RIGHT                    &kp SPACE   &kp DEL    &kp ESC                              &kp ESC   &kp RET  &kp BACKSPACE          &kp UP   &kp DOWN  &kp LEFT_BRACKET  &kp RIGHT_BRACKET           &mo 2
+ &kp LANGUAGE_5     &kp N1       &kp N2    &kp N3     &kp N4  &kp N5               &tog 1                                                                    &mo 3  &kp N6  &kp N7     &kp N8            &kp N9             &kp N0    &kp MINUS
+        &kp TAB      &kp Q        &kp W     &kp E      &kp R   &kp T            &kp PG_UP                                                                 &kp HOME   &kp Y   &kp U      &kp I             &kp O              &kp P  &kp AT_SIGN
+      &kp LCTRL      &kp A        &kp S     &kp D      &kp F   &kp G            &kp PG_DN  &kp LGUI   &kp LALT                  &kp LANG1  &kp LGUI        &kp END   &kp H   &kp J      &kp K             &kp L           &kp SEMI    &kp COLON
+      &kp LSHFT      &kp Z        &kp X     &kp C      &kp V   &kp B                                 &kp LCTRL                  &kp LANG2                            &kp N   &kp M  &kp COMMA        &kp PERIOD          &kp SLASH   &kp INT_RO
+          &mo 2  &kp TILDE  &kp INT_YEN  &kp LEFT  &kp RIGHT                    &kp SPACE   &kp DEL    &kp ESC                    &kp ESC   &kp RET  &kp BACKSPACE          &kp UP   &kp DOWN  &kp LEFT_BRACKET  &kp RIGHT_BRACKET        &mo 2
             >;
         };
 
